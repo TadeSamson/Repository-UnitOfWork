@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SampleArchitecture.Core">
+      <HintPath>..\SampleArchitecture.Core\bin\Debug\netcoreapp2.2\SampleArchitecture.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

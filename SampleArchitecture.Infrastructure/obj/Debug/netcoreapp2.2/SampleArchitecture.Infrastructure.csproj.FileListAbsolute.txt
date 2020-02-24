@@ -1,0 +1,4 @@
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\SampleArchitecture.Infrastructure.csprojAssemblyReference.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\SampleArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\SampleArchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\SampleArchitecture.Infrastructure.AssemblyInfo.cs

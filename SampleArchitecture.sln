@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleArchitecture.Core", "SampleArchitecture.Core\SampleArchitecture.Core.csproj", "{509BDEE6-368C-439A-B51E-68519BB9C324}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleArchitecture.Infrastructure", "SampleArchitecture.Infrastructure\SampleArchitecture.Infrastructure.csproj", "{52F4C041-5A57-4D67-8E90-EE98863D0CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509BDEE6-368C-439A-B51E-68519BB9C324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509BDEE6-368C-439A-B51E-68519BB9C324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509BDEE6-368C-439A-B51E-68519BB9C324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509BDEE6-368C-439A-B51E-68519BB9C324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F4C041-5A57-4D67-8E90-EE98863D0CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F4C041-5A57-4D67-8E90-EE98863D0CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F4C041-5A57-4D67-8E90-EE98863D0CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F4C041-5A57-4D67-8E90-EE98863D0CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E93C96-BE8E-4FA6-BBD4-4AAE988B235E}
+	EndGlobalSection
+EndGlobal

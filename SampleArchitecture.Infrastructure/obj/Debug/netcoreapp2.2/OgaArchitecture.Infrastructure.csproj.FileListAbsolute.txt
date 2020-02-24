@@ -1,0 +1,6 @@
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\bin\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.deps.json
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\bin\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.dll
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.csprojAssemblyReference.cache
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Infrastructure\obj\Debug\netcoreapp2.2\OgaArchitecture.Infrastructure.AssemblyInfo.cs

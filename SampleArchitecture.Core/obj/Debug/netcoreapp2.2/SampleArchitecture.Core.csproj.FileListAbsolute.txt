@@ -1,0 +1,9 @@
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\bin\Debug\netcoreapp2.2\SampleArchitecture.Core.deps.json
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\bin\Debug\netcoreapp2.2\SampleArchitecture.Core.dll
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\bin\Debug\netcoreapp2.2\SampleArchitecture.Core.pdb
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.csprojAssemblyReference.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.csproj.CoreCompileInputs.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.AssemblyInfoInputs.cache
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.AssemblyInfo.cs
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.dll
+E:\Projects\.NET Projects\Libraries\SampleArchitecture\SampleArchitecture.Core\obj\Debug\netcoreapp2.2\SampleArchitecture.Core.pdb

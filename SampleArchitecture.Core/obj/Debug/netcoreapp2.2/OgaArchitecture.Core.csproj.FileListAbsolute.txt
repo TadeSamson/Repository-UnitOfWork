@@ -1,0 +1,8 @@
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\obj\Debug\netcoreapp2.2\OgaArchitecture.Core.csproj.CoreCompileInputs.cache
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\obj\Debug\netcoreapp2.2\OgaArchitecture.Core.AssemblyInfoInputs.cache
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\obj\Debug\netcoreapp2.2\OgaArchitecture.Core.AssemblyInfo.cs
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\bin\Debug\netcoreapp2.2\OgaArchitecture.Core.deps.json
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\bin\Debug\netcoreapp2.2\OgaArchitecture.Core.dll
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\bin\Debug\netcoreapp2.2\OgaArchitecture.Core.pdb
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\obj\Debug\netcoreapp2.2\OgaArchitecture.Core.dll
+E:\Projects\.NET Projects\Libraries\OgaArchitecture\OgaArchitecture.Core\obj\Debug\netcoreapp2.2\OgaArchitecture.Core.pdb
